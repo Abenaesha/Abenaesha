@@ -5,10 +5,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Movie Website](https://github.com/Abenaesha/eflix)**
-
-- 🌱 I’m currently learning **Firebase**
-
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://abenaesha.github.io/)**
 
 - 📫 How to reach me **mr.benaesha@gmail.com**
